@@ -1,0 +1,6 @@
+Wife,Married,Have-family,*
+Own-child,Married,Have-family,*
+Husband,Married,Have-family,*
+Not-in-family,Not-in-family,Not-in-family,*
+Other-relative,Unmarried,Have-family,*
+Unmarried,Unmarried,Have-family,*

@@ -1,0 +1,15 @@
+Tech-support,Mental-Work,*
+Craft-repair,Manual-Labor,*
+Other-service,Service,*
+Sales,Service,Manual-Labor,*
+Exec-managerial,Mental-Work,*
+Prof-specialty,Mental-Work,*
+Handlers-cleaners,Manual-Labor,*
+Machine-op-inspct,Manual-Labor,*
+Adm-clerical,Mental-Work,*
+Farming-fishing,Manual-Labor,*
+Transport-moving,Manual-Labor,*
+Priv-house-serv,Service,*
+Protective-serv,Manual-Labor,*
+Armed-Forces,Manual-Labor,*
+?,*,*
